@@ -5,4 +5,6 @@
     <string name="shapemetry_icon">Shapemetry icon</string>
     <string name="como_es_tu_nombre">Como es tu nombre?</string>
     <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="square">Square</string>
+    <string name="imagen_de_un_cuadrado">Imagen de un cuadrado</string>
 </resources>
